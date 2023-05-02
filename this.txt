@@ -1,1 +1,3 @@
-sfdfsdfsdfds
+git add  .
+git  commit -m "this is commit"
+git push origin master
